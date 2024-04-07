@@ -1,0 +1,24 @@
+{
+  "name": "party-submissions-download",
+  "version": "1.0.0",
+  "description": "This project is being developed in regard with improving web scraping skills,and download all partyrock submissions from devpost.",
+  "main": "index.js",
+  "scripts": {
+    "start":"node ok.js"
+  },
+  "keywords": [
+    "partyrock",
+    "download",
+    "generativeai",
+    "ai",
+    "playwright"
+  ],
+  "author": "Shivanagouda R Patil",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}
